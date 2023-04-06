@@ -52,7 +52,7 @@ You can now install packages and run Python scripts within the virtual environme
 deactivate
 ```
 
-The application will prompt you for input and respond with generated text based on the GPT-3.5 model. Use the `exit` command to quit the application or `new` to start a new conversation.
+### The application will prompt you for input and respond with generated text based on the GPT-3.5 model. Use the `exit` command to quit the application or `new` to start a new conversation.
 
 
 ## Useful links
